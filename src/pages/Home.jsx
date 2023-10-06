@@ -77,7 +77,7 @@ const Home = () => {
           </h3>
           <h1>-</h1>
           <a href="">
-            <button><Link to="/donate">EXPLORE</Link></button>
+            <button><a href="https://merchant.razorpay.com/policy/MkXHetEogQoLxt/privacy">WEBSITE POLICY</a></button>
           </a>
           <a>
             <button>
@@ -231,7 +231,8 @@ const Home = () => {
                   defaultValue={""}
                   
                 />
-                <button type="submit">SEND MESSAGE</button>
+                <button type="submit">SEND MESSAGE</button><br/>
+                
               </form>
             </div>
           </div>

@@ -203,14 +203,15 @@ html {
 }
 .about .imgcontanner .aboutimg {
     position: absolute;
-     background: url('../images/child.jpg'); 
+    background: url('../images/child.jpg'); 
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;
     height: 350px;
     top: 80px;
-    left: 32%;
+    left: 25%;
+    
 }
 
 /* about content */
