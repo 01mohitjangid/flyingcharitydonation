@@ -16,7 +16,7 @@ const RazorpayForm = () => {
 
   const handlePayment = () => {
     const options = {
-      key: 'rzp_test_xdXIVZkNahIKJl', // Replace with your API Key
+      key: 'rzp_test_r05lzrTpOHhM4R', // Replace with your API Key
       amount: formData.amount * 100, // Use the amount from the form data
       currency: 'INR', // Replace with your preferred currency code
       name: 'flying.charityfoundation',
